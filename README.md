@@ -20,19 +20,22 @@ Import component to Qiskit Metal using Image
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 #### Image to be imported to Qiskit
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Images/qiskit2.png)
 
 #### Qiskit Metal design - Plasmon TL
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Images/qiskit3.png)
 
 #### Ansys Sim - EPR
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Images/qiskit4.png)
 
 #### Simple Qiskit
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Images/qiskit5.png)
 
 #### Simple Ansys
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Images/qiskit6.png)
+
+#### Simple Ansys
+![App Screenshot](Images/qiskit7.png)
 
 
 
