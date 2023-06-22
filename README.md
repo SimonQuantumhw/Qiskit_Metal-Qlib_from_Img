@@ -34,8 +34,6 @@ Import component to Qiskit Metal using Image
 #### Simple Ansys
 ![App Screenshot](Images/qiskit6.png)
 
-#### Simple Ansys
-![App Screenshot](Images/qiskit7.png)
 
 
 
