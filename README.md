@@ -18,10 +18,10 @@ Import component to Qiskit Metal using Image
 #### WorkFlow
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-#### Image to be imported to Qiskit
+#### Qiskit Metal
 ![App Screenshot](Images/qiskit2.png)
 
-#### Qiskit Metal design - Plasmon TL
+#### Ansys 
 ![App Screenshot](Images/qiskit3.png)
 
 #### Ansys Sim - EPR
