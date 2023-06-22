@@ -9,7 +9,6 @@ Import component to Qiskit Metal using Image
 - Scaling
 - Automatic image converting to correct formats
 - Exporting to Ansys
-- GDSII Creation
 
 
 
